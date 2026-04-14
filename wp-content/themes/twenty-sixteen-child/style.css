@@ -1,0 +1,17 @@
+/*
+Theme Name:     Twenty Sixteen child
+Description:    
+Author:         evelynchan180
+Template:       twentysixteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+h2{
+    color: aqua;
+    font-weight: 400;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
