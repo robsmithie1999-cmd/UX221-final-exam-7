@@ -42,6 +42,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gaming-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gardening-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/workout-kits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cookie-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/crafting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
